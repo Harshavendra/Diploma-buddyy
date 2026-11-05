@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diploma Buddy AI</string>
+    <string name="tagline">Learn Better. Understand Faster.</string>
+    <string name="founder_email">m20697524@gmail.com</string>
+    <string name="package_name_text">com.diplomabuddy.ai</string>
+</resources>
